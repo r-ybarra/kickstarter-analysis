@@ -15,6 +15,7 @@ For this section I broke down play Kickstarters into multiple categories based o
 ![goals_table](C:\Users\richa\Desktop\Class\resources\goals_table) ---
 ![Outcomes_vs_Goals](C:\Users\richa\Desktop\Class\resources\Outcomes_vs_Goals) ---
 ### Challenges and Difficulties Encountered
+The only challenge that I had while doing this project was that the updated file from doing the module would crash and caused me to lose a substantial amount of work. I was forced to remove all of the tabs that were not associated witht the challenge to fix it. 
 
 ## Results
 
