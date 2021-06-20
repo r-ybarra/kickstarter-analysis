@@ -1,14 +1,28 @@
-# An Analysis of Kickstarter Campaigns 
-Performing analysis on Kickstarter to discover trends.
+# Kickstarting with Excel
 
-## Outcomes based on launch date
-![Launch date outcomes chart](https://user-images.githubusercontent.com/83841580/122469898-1088d380-cf83-11eb-9c5e-b958fcd0fd4f.png)
+## Overview of Project
+Analysing the outcomes of Kickstarter campaigns.
+### Purpose
+Finding trends that lead to Kickstarter campaign success.
+## Analysis and Challenges
+Analysing Kickstarter campaigns based on launch date and funding goals.
+### Analysis of Outcomes Based on Launch Date
+For this section I created a pivot table and line chart to show the difference in success rates based on the launch date of theater Kickstarter campaigns. There was a strong correlation between starting during the summer and being successful. ---
+![Launch_date_pivot](C:\Users\richa\Desktop\Class\resources\Launch_date_pivot) ---
+![Theater_Outcomes_vs_Launch](C:\Users\richa\Desktop\Class\resources\Theater_Outcomes_vs_Launch) ---
+### Analysis of Outcomes Based on Goals
+For this section I broke down play Kickstarters into multiple categories based on their initial funding goal. There was a clear inverse correlation between funding goal and success. ---
+![goals_table](C:\Users\richa\Desktop\Class\resources\goals_table) ---
+![Outcomes_vs_Goals](C:\Users\richa\Desktop\Class\resources\Outcomes_vs_Goals) ---
+### Challenges and Difficulties Encountered
 
-## Outcomes based on category
-![Parent category outcome chart](https://user-images.githubusercontent.com/83841580/122471506-fb14a900-cf84-11eb-8594-53862296e8b0.png)
+## Results
 
-## Play Outcomes
-![Play Outcomes](https://user-images.githubusercontent.com/83841580/122471562-07990180-cf85-11eb-918e-e20da24756a8.png)
-
-## Recommendation
-Based on the Kickstarter data we recieved I reccommend running a campaign between May and June with a goal of $2,000 or less. Of the specific plays we looked into, 4 were successfully kickstarted on that budget. "Be Prepared", "Checkpoint 22", "Cutting off Kate Bush", and "Jestia and Raedon" would all be suitable.
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+By looking at the performance of theater Kickstarters based on their launch date we can see that campaigns between May and July were very successful. We can also see that campaigns between September and December were usually unsuccessful.
+- What can you conclude about the Outcomes based on Goals?
+It was apparent that the higher the funding goal, the less likely a Kickstarter was to succeed. If a goal was $5000 or more it was likely to fail. 
+- What are some limitations of this dataset?
+The biggest limitation of this data set is that it only tracks whether or not a Kickstarter campaign was successful or not. It does not take measure whether the projects were successful after being funded. We don't know how many people actually used the services after they were established.
+- What are some other possible tables and/or graphs that we could create?
+One thing that I might look at would be the number of backers each successful project had. A pivot table could tell us if these campaigns has a lot of people interested in a project or if there was just a few wealthy backers. That could make a big difference in engagement. I would also be interested to see if the blurb for each campaign had any effect on the success. I'm not sure if there are any charts or tables that would be effective for this, but finding keywords and using search engine optimization could be a boon to people looking to fund campaigns this way.
